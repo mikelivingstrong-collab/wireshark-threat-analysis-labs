@@ -112,3 +112,10 @@ The investigation demonstrates:
 # Conclusion
 
 This investigation demonstrated how Wireshark can be used to identify suspicious network reconnaissance activity, analyze TCP communications, reconstruct application streams, and detect exposure of sensitive data transmitted across a network.
+---
+
+# Investigation Evidence
+
+## TCP Stream Analysis
+
+![TCP Stream Analysis](Screenshot%202026-05-22%20102451.png)
